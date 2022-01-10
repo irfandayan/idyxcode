@@ -1,0 +1,32 @@
+
+
+- Variables(Done)
+- Repeating Things(Done)
+- Create Menu (Done)
+- Review whole code(Done)
+
+- Watch CSS courses 
+- Fix things as per courses (Done)
+- Fix responsive layout. (Done)
+
+
+- Add prefixes (Done)
+- Crose browesr testing (Done)
+- Code validation (Done)
+
+- Check on live mobile and big screen.  (Done)
+
+- Modify content, gradient and colors. (Done)
+- Try to make the links working. (No Need)
+
+- Learn VS extension & tricks (18)
+
+
+
+- Create slides
+- Setup Studio
+- Test video 
+- Start scripting
+- Start recording
+- Rethink the course name
+
